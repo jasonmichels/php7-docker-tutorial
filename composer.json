@@ -1,0 +1,15 @@
+{
+  "name": "jasonmichels/php7-docker-tutorial",
+  "description": "Tutorial running PHP 7 with Docker",
+  "keywords": ["php", "php7", "docker"],
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "type": "project",
+  "homepage": "http://jasonmichels.com",
+  "authors":[
+    {
+      "name": "Jason Michels",
+      "email": "michelsja@gmail.com"
+    }
+  ]
+}
